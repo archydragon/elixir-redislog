@@ -44,7 +44,7 @@ Encoded message example:
     "line": 92,
     "function": null,
     "file": "iex",
-    "adtitional_information": "something here"
+    "additional_information": "something here"
   },
   "message": "test log message",
   "level": "error",
